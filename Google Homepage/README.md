@@ -20,10 +20,6 @@ The main goal was to reproduce Google's familiar homepage layout while improving
 - HTML5
 - CSS3
 
-## Project Preview
-
-![Google Homepage Preview](screenshots/google-homepage.png)
-
 ## Learning Outcomes
 
 Through this project, I practiced:
